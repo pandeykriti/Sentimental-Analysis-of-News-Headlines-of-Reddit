@@ -1,1 +1,1 @@
-# Sentimental-Analysis-on-News-Headlines-of-Reddit
+# Sentimental-Analysis-on-Reddit-News-Headlines
